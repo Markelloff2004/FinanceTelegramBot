@@ -5,10 +5,10 @@ FinanceTelegramBot is a Telegram bot developed using Python to provide financial
 ## Overview
 
 FinanceTelegramBot offers the following features:
-- **Stock Information**: Get real-time stock quotes and market data.
-- **Currency Conversion**: Convert between different currencies using up-to-date exchange rates.
-- **Financial News**: Fetch the latest financial news from top sources.
-- **Portfolio Management**: Manage your investment portfolio and track your assets.
+- **Expense Tracking:** Record your expenses and categorize them for better organization.
+- **Income Tracking:** Track your sources of income and monitor your financial inflows.
+- **Statistics:** Generate statistics and visualize your financial data for better insights.
+- **Graphical Representation:** View pie charts representing your income and expenses for easy understanding.
 
 ## Installation
 
